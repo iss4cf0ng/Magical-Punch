@@ -11,10 +11,10 @@ In current version(V1.0.0) can crack PDF(*.pdf) and AccessDB(*.mdb) file
 
 ## Screenshots
 
-![png1](https://github.com/malbuffer4pt/Magical-Punch/blob/main/1.png)
-![png2](https://github.com/malbuffer4pt/Magical-Punch/blob/main/2.png)
-![png3](https://github.com/malbuffer4pt/Magical-Punch/blob/main/3.png)
-![png4](https://github.com/malbuffer4pt/Magical-Punch/blob/main/4.png)
+![png1](https://github.com/malbuffer4pt/Magical-Punch/blob/master/1.png)
+![png2](https://github.com/malbuffer4pt/Magical-Punch/blob/master/2.png)
+![png3](https://github.com/malbuffer4pt/Magical-Punch/blob/master/3.png)
+![png4](https://github.com/malbuffer4pt/Magical-Punch/blob/master/4.png)
 ## How to use
 1. Right click, then you get a menu
 2. Choose "Load", select the target files
