@@ -8,6 +8,8 @@ In current version(V1.0.0) can crack PDF(*.pdf) and AccessDB(*.mdb) file
 
 - [@malbuffer4pt](https://github.com/malbuffer4pt) (ISSAC)
 
+## Target File
+doc, docx, pdf, xls, xlsx, csv, mdb, zip
 
 ## Screenshots
 
@@ -17,7 +19,7 @@ In current version(V1.0.0) can crack PDF(*.pdf) and AccessDB(*.mdb) file
 ![png4](https://github.com/malbuffer4pt/Magical-Punch/blob/master/4.png)
 ## How to use
 1. Right click, then you get a menu
-2. Choose "Load", select the target files
+2. Choose "Add", select the target files
 3. (Optional) Choose "Fast scan", then "Magical Punch" will determine the target\
 file is encrypted, no password or invalid filetype respectively.
 4. Choose "Start", then "Magical Punch" will start cracking the files.
